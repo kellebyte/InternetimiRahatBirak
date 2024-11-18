@@ -6,6 +6,8 @@ Bu uygulama, kullanıcıların DNS ayarlarını değiştirmelerine ve çeşitli 
 
 
 
+
+[Virus Total Testi](https://www.virustotal.com/gui/file/af009dee5c83c07380509eb441d5025f9d401d9f6d494db0962ef9d812d4d297/detection)
 ### Özellikler
 
 - **DNS Ayarlarını Değiştir**: Kullanıcıların seçtiği ağ adaptörü için DNS sunucularını değiştirme.
