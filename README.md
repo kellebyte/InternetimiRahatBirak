@@ -2,6 +2,9 @@
 
 Bu uygulama, kullanıcıların DNS ayarlarını değiştirmelerine ve çeşitli DPI (Derin Paket İnceleme) önleme yöntemlerini kullanmalarına olanak tanır. Uygulama, yönetici izinleri gerektiren işlemler için otomatik olarak yönetici olarak yeniden başlatılır.
 
+(ss/1.png)
+
+
 ### Özellikler
 
 - **DNS Ayarlarını Değiştir**: Kullanıcıların seçtiği ağ adaptörü için DNS sunucularını değiştirme.
