@@ -2,7 +2,8 @@
 
 Bu uygulama, kullanıcıların DNS ayarlarını değiştirmelerine ve çeşitli DPI (Derin Paket İnceleme) önleme yöntemlerini kullanmalarına olanak tanır. Uygulama, yönetici izinleri gerektiren işlemler için otomatik olarak yönetici olarak yeniden başlatılır.
 
-(ss/1.png)
+![image](https://github.com/user-attachments/assets/2498bfae-829c-42d6-891c-82b4ea3e2909)
+
 
 
 ### Özellikler
